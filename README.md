@@ -1,4 +1,4 @@
-# estacio-projeto-explorer
+# estacio-projeto-origin
 Projeto de uma landing page responsiva
 
 #Skills
